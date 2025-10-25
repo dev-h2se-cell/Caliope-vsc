@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   title: 'Caliope - Tu Curador de Bienestar',
   description: 'Tu guía de bienestar personalizada',
   icons: {
-    icon: '/favicon%20caliope.svg',
+    icon: '/favicon.svg',
   },
 };
 
