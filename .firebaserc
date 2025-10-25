@@ -1,6 +1,6 @@
 {
   "projects": {
-    "default": "caliope-lei71"
+    "default": "caliope-vercel"
   },
   "targets": {
     "caliope-lei71": {
